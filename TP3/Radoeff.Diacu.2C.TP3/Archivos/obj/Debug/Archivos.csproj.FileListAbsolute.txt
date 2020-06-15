@@ -1,0 +1,9 @@
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\Archivos\obj\Debug\Archivos.pdb

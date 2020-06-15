@@ -1,0 +1,16 @@
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\ProyectoDeConsolaTP3.exe.config
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\ProyectoDeConsolaTP3.exe
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\ProyectoDeConsolaTP3.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Clases Abstractas.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Clases Instanciables.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Excepciones.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Archivos.dll
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Excepciones.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\bin\Debug\Archivos.pdb
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\obj\Debug\ProyectoDeConsolaTP3.csprojAssemblyReference.cache
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\obj\Debug\ProyectoDeConsolaTP3.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\obj\Debug\ProyectoDeConsolaTP3.csproj.CopyComplete
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\obj\Debug\ProyectoDeConsolaTP3.exe
+C:\Users\diacu\Desktop\TP3\Radoeff.Diacu.2C.TP3\ProyectoDeConsolaTP3\obj\Debug\ProyectoDeConsolaTP3.pdb
