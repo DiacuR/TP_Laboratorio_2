@@ -1,0 +1,5 @@
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Excepciones\obj\Debug\Excepciones.pdb

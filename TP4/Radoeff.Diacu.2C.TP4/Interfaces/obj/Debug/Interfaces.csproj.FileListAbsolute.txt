@@ -1,0 +1,5 @@
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\diacu\Desktop\Carpeta de Trabajo\Lab 2\source\Radoeff.Diacu.2C.TP4\Interfaces\obj\Debug\Interfaces.pdb
