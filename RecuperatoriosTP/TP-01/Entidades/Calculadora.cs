@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Calculadora
+    public static class Calculadora
     {
         #region Metodos
         /// <summary>
@@ -51,7 +51,7 @@ namespace Entidades
         private static string validarOperador(string operador)
         {
             string retornoOperador = "+";
-            if (!object.Equals(operador, null))
+            if (operador != string.Empty)
             {
                 if (operador == "-" || operador == "*" || operador == "/")
                 {

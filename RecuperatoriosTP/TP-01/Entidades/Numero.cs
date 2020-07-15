@@ -32,7 +32,7 @@ namespace Entidades
         /// <param name="strNumero">Numero que inicializa, si se puede validar</param>
         public Numero(string strNumero)
         {
-            SetNumero = strNumero;
+            this.SetNumero = strNumero;
         }
         #endregion
 
@@ -60,7 +60,7 @@ namespace Entidades
             double num;
             double retorno = 0;
 
-            if (numero != null)
+            if (numero != string.Empty)
             {
                 if (double.TryParse(numero, out num))
                 {
@@ -79,16 +79,19 @@ namespace Entidades
         {
             bool retorno = false;
 
-            foreach (char item in binario)
+            if (binario != string.Empty)
             {
-                if (item == '1' || item == '0')
+                foreach (char item in binario)
                 {
-                    retorno = true;
-                }
-                else
-                {
-                    retorno = false;
-                    break;
+                    if (item == '1' || item == '0')
+                    {
+                        retorno = true;
+                    }
+                    else
+                    {
+                        retorno = false;
+                        break;
+                    }
                 }
             }
 
@@ -100,16 +103,16 @@ namespace Entidades
         /// </summary>
         /// <param name="nroDecimal">Numero a convertir</param>
         /// <returns>El numero en binario</returns>
-        public static string DecimalBinario(double nroDecimal)
+        public string DecimalBinario(double nroDecimal)
         {
-            return Numero.DecimalBinario(nroDecimal.ToString());
+            return this.DecimalBinario(nroDecimal.ToString());
         }
         /// <summary>
         /// Convierte de decimal a binario
         /// </summary>
         /// <param name="nroDecimal">Numero a convertir</param>
         /// <returns>El numero binario en caso de exito. Caso contrario 'Valor Invalido'</returns>
-        public static string DecimalBinario(string nroDecimal)
+        public string DecimalBinario(string nroDecimal)
         {
             double num;
             string retorno = string.Empty;
@@ -137,7 +140,7 @@ namespace Entidades
         /// </summary>
         /// <param name="binario">Numero a convertir</param>
         /// <returns>Retorna el numero decimal. Y en caso de error 'Valor Invalido'</returns>
-        public static String BinarioDecimal(string binario)   //Convierte un número binario a entero.
+        public String BinarioDecimal(string binario)   //Convierte un número binario a entero.
         {
             double nroDecimal = 0;
             int nroBinario = 0;

@@ -70,11 +70,12 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
+            Numero numero = new Numero();
             if (this.lblResultado.Text != "")
             {
                 this.btnConvertirADecimal.Enabled = true;
                 this.btnConvertirABinario.Enabled = false;
-                this.lblResultado.Text = Numero.DecimalBinario(this.lblResultado.Text);
+                this.lblResultado.Text = numero.DecimalBinario(this.lblResultado.Text);
             }
 
         }
@@ -85,12 +86,12 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-
+            Numero numero = new Numero();
             if (this.lblResultado.Text != "")
             {
                 this.btnConvertirABinario.Enabled = true;
                 this.btnConvertirADecimal.Enabled = false;
-                this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
+                this.lblResultado.Text = numero.BinarioDecimal(this.lblResultado.Text);
             }
         }
         #endregion

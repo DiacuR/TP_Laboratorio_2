@@ -20,3 +20,16 @@ C:\Users\diacu\source\repos\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.C
 C:\Users\diacu\source\repos\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\diacu\source\repos\TP-01\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\diacu\source\repos\TP-01\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\diacu\Documents\GitHub\TP_Laboratorio_2\RecuperatoriosTP\TP-01\MiCalculadora\obj\Debug\MiCalculadora.pdb
