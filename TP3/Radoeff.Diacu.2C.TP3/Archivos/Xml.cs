@@ -28,7 +28,7 @@ namespace Archivos
                 if (!(archivo is null) && (datos != null))
                 {
                     writer = new XmlTextWriter(archivo, Encoding.Default);
-
+                    
                     ser = new XmlSerializer(typeof(T));
 
                     ser.Serialize(writer, datos);
@@ -89,5 +89,8 @@ namespace Archivos
 
             return retorno;
         }
+
+ 
+        
     }
 }
